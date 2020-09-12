@@ -1,5 +1,7 @@
 import React, { useState } from 'react'; 
 // here is a comment to test git out
+// this is for testing
+// how about now
 interface Props{
     addTodo: AddTodo;
 }
